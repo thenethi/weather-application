@@ -1,4 +1,3 @@
-// src/components/Weather.js
 import React, { useState, useEffect } from 'react';
 import { FaCloudSun } from 'react-icons/fa';
 import CurrentDateTime from '../CurrentDateTime';
